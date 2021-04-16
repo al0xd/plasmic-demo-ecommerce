@@ -1,0 +1,84 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: 600px;
+  position: relative;
+  justify-content: space-between;
+  overflow: hidden;
+  min-width: 0;
+  background: url("/plasmic/furn_e_commerce/images/tableBanner.jpeg") 0% 0% / cover;
+}
+.box___0069T {
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 33%;
+  opacity: 0.95;
+  min-height: 0;
+  background: rgb(74, 76, 79);
+}
+.box__glXfE {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 60%;
+  padding: 32px 24px;
+}
+.box__glXfE > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.box__glXfE > :global(.__wab_flex-container) > *,
+.box__glXfE > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 12px;
+}
+.box__sVSpk {
+  position: relative;
+  color: rgb(255, 255, 255) /* plasmic-token: Q17IkD5YPWWEAa */;
+  font-size: 24px;
+  font-weight: 700;
+}
+.box__y0XG3 {
+  position: relative;
+  color: rgb(255, 255, 255) /* plasmic-token: Q17IkD5YPWWEAa */;
+}
+.box__cTbC {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.box__pkJkU {
+  color: rgb(255, 255, 255) /* plasmic-token: Q17IkD5YPWWEAa */;
+  font-size: 14px;
+}
+.box__zoSaZ {
+  position: relative;
+  color: rgb(233, 156, 46) /* plasmic-token: b_xKKmU_xEoLmK */;
+}
+.box__m2RtZ {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.box__m2RtZ > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.box__m2RtZ > :global(.__wab_flex-container) > *,
+.box__m2RtZ > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 8px;
+}
+.linkButton:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
